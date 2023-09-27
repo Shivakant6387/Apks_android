@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miHome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/miDirectory"
+        android:icon="@drawable/baseline_folder_24"
+        android:title="Directory" />
+
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
+
+    <item
+        android:id="@+id/miPremium"
+        android:icon="@drawable/baseline_stars_24"
+        android:title="Premium" />
+
+    <item
+        android:id="@+id/miSettings"
+        android:icon="@drawable/setting"
+        android:title="Settings" />
+</menu>
